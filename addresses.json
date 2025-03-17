@@ -1,0 +1,10 @@
+[
+    {
+        "private_key": "你的钱包私钥1",
+        "source_address": "私钥该私钥1对应的地址"
+    },
+    {
+        "private_key": "你的钱包私钥2",
+        "source_address": "私钥2对应的地址"
+    }
+]
